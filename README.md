@@ -1,4 +1,4 @@
-## Hi, I am sochieese! <img src="https://raw.githubusercontent.com/sochieese/sochieese/master/emoji.gif" width="30px">
+## Hi, I am sochieese! <img src="https://cdn.discordapp.com/emojis/1048110912084656148.png" width="30px">
 
 
 ## 😸 Technologies I use
