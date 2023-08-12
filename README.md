@@ -19,7 +19,7 @@ Click the image to play the song.
 
 
 ## Currently working on
-youtbe video downloader with subtitles , etc.
+youtube video downloader with subtitles , etc.
 
 
 
