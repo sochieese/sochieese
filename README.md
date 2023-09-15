@@ -14,7 +14,7 @@
 
 ## My Favorite Song ATM
 - Get Him Back By Olivia Rodrigo
-[![My Favorite Song](https://github.com/sochieese/sochieese/blob/main/Olivia.gif)
+![My Favorite Song](https://github.com/sochieese/sochieese/blob/main/Olivia.gif)
 
 
 
