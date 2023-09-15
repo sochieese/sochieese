@@ -10,7 +10,7 @@
 
 
 ## My Discord
-![Discord](https://discord.c99.nl/widget/theme-3/853074267381039154.png)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=851585734552977449)
 
 ## My Favorite Song
 [![My Favorite Song](https://i.scdn.co/image/ab67616d00001e02261d204682eb8cbb07a59c2a)](https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d?si=098f8407a84c41e0)
