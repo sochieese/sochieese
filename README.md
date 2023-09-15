@@ -12,10 +12,10 @@
 ## My Discord
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=851585734552977449)
 
-## My Favorite Song
-[![My Favorite Song](https://i.scdn.co/image/ab67616d00001e02261d204682eb8cbb07a59c2a)](https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d?si=098f8407a84c41e0)
+## My Favorite Song ATM
+- Get Him Back By Olivia Rodrigo
+[![My Favorite Song](https://github.com/sochieese/sochieese/Olivia.gif)
 
-Click the image to play the song.
 
 
 ## Currently working on
