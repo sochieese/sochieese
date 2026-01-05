@@ -10,7 +10,7 @@
 
 
 ## My Discord
-![My Discord](https://discord-readme-badge.vercel.app/api?id=853074267381039154)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=960068282231181322)
 
 ## My Favorite Song ATM
 - Get Him Back By Olivia Rodrigo
