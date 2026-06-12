@@ -47,6 +47,23 @@
 
 <div align="center">
 
+`◤ NOW PLAYING ◢`
+
+<br>
+
+<a href="https://open.spotify.com/user/31xkowsul6sewwnejjgntjcdbm2i">
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xkowsul6sewwnejjgntjcdbm2i&cover_image=true&theme=default&show_offline=true&background_color=0a0010&interchange=false&bar_color=ff2d78&bar_color_cover=false"
+    width="450"
+  />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sochieese&bg_color=0a0010&color=ff2d78&line=bf00ff&point=ff2d78&area=true&area_color=bf00ff&hide_border=true" width="100%"/>
 
 </div>
