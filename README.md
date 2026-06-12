@@ -63,7 +63,7 @@
 [![Instagram](https://img.shields.io/badge/@NakedSochi-0a0010?style=for-the-badge&logo=instagram&logoColor=bf00ff)](https://instagram.com/NakedSochi)
 [![X](https://img.shields.io/badge/@NakedSochi-0a0010?style=for-the-badge&logo=x&logoColor=ff2d78)](https://x.com/NakedSochi)
 [![Discord](https://img.shields.io/badge/NakedSochi-0a0010?style=for-the-badge&logo=discord&logoColor=bf00ff)](https://discord.com/users/1514852780064505949)
-![WeChat](https://img.shields.io/badge/WeChat-sochieese-0a0010?style=for-the-badge&logo=wechat&logoColor=ff2d78)
+[![WeChat](https://img.shields.io/badge/sochieese-0a0010?style=for-the-badge&logo=wechat&logoColor=ff2d78)](#sochieese)
 
 </div>
 
